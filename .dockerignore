@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+
+# Repositorio y herramientas
+.git
+.github
+.vscode
+*.md
+Dockerfile
+.dockerignore
